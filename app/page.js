@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div>
-      <h1 className='text-xl text-purple-700 font-bold'>SakuraBeats</h1>
+      <h1 className='text-xl text-purple-700 font-bold'>SakuraBeats - Jayden Liwanag</h1>
       <p>Find millions of songs, artist and genre from Spotify!</p>
       {data ? (
         <pre>{data}</pre>
