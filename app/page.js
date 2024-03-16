@@ -17,7 +17,8 @@ function App() {
 
   return (
     <div>
-      <h1>Spotify Genre Data</h1>
+      <h1>Spotify Genre Data App</h1>
+      <p>OverseerBeats - Find millions of songs, artist and genre from Spotify!</p>
       {data ? (
         <pre>{data}</pre>
       ) : (
