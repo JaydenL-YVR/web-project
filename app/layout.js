@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Hiragana & Katakana Study",
+  title: "SakuraBeats",
   description: "Developer: Jayden Liwanag",
 };
 
